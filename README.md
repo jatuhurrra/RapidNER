@@ -1,6 +1,6 @@
 # NERsocial: Efficient Named Entity Recognition Dataset Construction for Human-Robot Interaction Utilizing RapidNER
 
-[![arXiv](https://img.shields.io/badge/6029236-B31B1B.svg)](arXiv paper soon)
+[![arXiv](https://img.shields.io/badge/6029236-B31B1B.svg)](arXiv coming soon...)
 ***
 
 ### :telescope: :telescope: Overview
