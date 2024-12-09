@@ -1,4 +1,4 @@
-# rapidner (still  under development)
+# NERsocial: Efficient Named Entity Recognition Dataset Construction for Human-Robot Interaction Utilizing RapidNER
 
 [![arXiv](https://img.shields.io/badge/6029236-B31B1B.svg)](arXiv paper soon)
 ***
@@ -56,13 +56,27 @@ Dictionary Two: `id2label`
 ids_to_labels = {v: k for k, v in labels_to_ids.items()}
  ```
 
+## The Dataset size.
+Below, we compare the new NERsocial dataset with exiting NER datasets.
+
+<p align="center">
+  <img src="/images/compareNERdatasets.png" width="75%" alt="Results">
+</p>
+
+We can see that our dataset is much larger than existing datasets. 
+
 ### :gear: :wrench: Experiments
-We deploy several LLMs for the NER and RE evaluation.
+We deploy three models available at the HUggingFace API to fine-tune NERsocial on our dataset. 
+The following results compare the performance across entity types and NER models after fine-tuning on NERsocial. 
+
+<p align="center">
+  <img src="/images/compareNERscores.png" width="75%" alt="Results">
+</p>
 
 ### :bookmark_tabs: :scroll: Citation
 
 If you find this work or dataset helpful in your research, please cite it as follows:
 
 ```
-Citation coming soon
+Citation coming soon...
 ```
