@@ -56,8 +56,8 @@ Dictionary Two: `id2label`
 ids_to_labels = {v: k for k, v in labels_to_ids.items()}
  ```
 
-## The Dataset size.
-Below, we compare the new NERsocial dataset with exiting NER datasets.
+### The Dataset size
+Below, we compare the new NERsocial dataset with existing NER datasets.
 
 <p align="center">
   <img src="/images/compareNERdatasets.png" width="75%" alt="Results">
