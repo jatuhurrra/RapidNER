@@ -1,6 +1,7 @@
 # NERsocial: Efficient Named Entity Recognition Dataset Construction for Human-Robot Interaction Utilizing RapidNER
 
-[![arXiv](https://img.shields.io/badge/6029236-B31B1B.svg)](arXiv coming soon...) :globe_with_meridians: :globe_with_meridians: (Website coming soon...)
+[![arXiv](https://img.shields.io/badge/arXiv-2412.09634-B31B1B.svg)](https://arxiv.org/abs/2412.09634) :globe_with_meridians: :globe_with_meridians: [Website](https://jatuhurrra.github.io/Rapid/) 
+[![PDF](https://img.shields.io/badge/PDF-View-red.svg)](https://arxiv.org/pdf/2412.09634)
 ***
 
 ### :telescope: :telescope: Overview
@@ -78,5 +79,13 @@ The following results compare the performance across entity types and NER models
 If you find this work or dataset helpful in your research, please cite it as follows:
 
 ```
-Citation coming soon...
+@misc{atuhurra2024nersocialefficientnamedentity,
+      title={NERsocial: Efficient Named Entity Recognition Dataset Construction for Human-Robot Interaction Utilizing RapidNER}, 
+      author={Jesse Atuhurra and Hidetaka Kamigaito and Hiroki Ouchi and Hiroyuki Shindo and Taro Watanabe},
+      year={2024},
+      eprint={2412.09634},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2412.09634}, 
+}
 ```
